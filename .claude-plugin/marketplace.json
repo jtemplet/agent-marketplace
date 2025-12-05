@@ -1,0 +1,30 @@
+{
+  "name": "agent-marketplace",
+  "description": "Personal marketplace: Superpowers skills + custom agent skills",
+  "owner": {
+    "name": "Jesse Templeton",
+    "email": "jtemplet@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "superpowers",
+      "description": "Core skills library from upstream",
+      "version": "latest",
+      "source": "github:obra/superpowers",
+      "author": {
+        "name": "Jesse Vincent",
+        "email": "jesse@fsck.com"
+      }
+    },
+    {
+      "name": "agent-skills",
+      "description": "Custom agent skills",
+      "version": "latest",
+      "source": "github:jtemplet/agent-skills",
+      "author": {
+        "name": "Jesse Templeton",
+        "email": "jtemplet@users.noreply.github.com"
+      }
+    }
+  ]
+}

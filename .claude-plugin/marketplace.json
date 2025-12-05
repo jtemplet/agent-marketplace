@@ -1,9 +1,11 @@
 {
   "name": "agent-marketplace",
-  "description": "Personal marketplace: Superpowers skills + custom agent skills",
   "owner": {
-    "name": "Jesse Templeton",
-    "email": "jtemplet@users.noreply.github.com"
+    "name": "Jason Templeton",
+  },
+  "metadata": {
+    "description": "A personal marketplace for agent plugins",
+    "version": "0.1.0"
   },
   "plugins": [
     {
@@ -28,7 +30,7 @@
       "description": "Custom agent skills",
       "version": "latest",
       "author": {
-        "name": "Jesse Templeton",
+        "name": "Jason Templeton",
         "email": "jtemplet@users.noreply.github.com"
       }
     }

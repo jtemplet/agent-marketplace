@@ -1,7 +1,7 @@
 {
   "name": "agent-marketplace",
   "owner": {
-    "name": "Jason Templeton",
+    "name": "Jason Templeton"
   },
   "metadata": {
     "description": "A personal marketplace for agent plugins",

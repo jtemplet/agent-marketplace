@@ -8,9 +8,12 @@
   "plugins": [
     {
       "name": "superpowers",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/obra/superpowers.git"
+      },
       "description": "Core skills library from upstream",
       "version": "latest",
-      "source": "github:obra/superpowers",
       "author": {
         "name": "Jesse Vincent",
         "email": "jesse@fsck.com"
@@ -18,9 +21,12 @@
     },
     {
       "name": "agent-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jtemplet/agent-skills.git"
+      },
       "description": "Custom agent skills",
       "version": "latest",
-      "source": "github:jtemplet/agent-skills",
       "author": {
         "name": "Jesse Templeton",
         "email": "jtemplet@users.noreply.github.com"

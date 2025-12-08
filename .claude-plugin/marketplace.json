@@ -9,19 +9,6 @@
   },
   "plugins": [
     {
-      "name": "superpowers",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/obra/superpowers.git"
-      },
-      "description": "Core skills library from upstream",
-      "version": "latest",
-      "author": {
-        "name": "Jesse Vincent",
-        "email": "jesse@fsck.com"
-      }
-    },
-    {
       "name": "agent-skills",
       "source": {
         "source": "url",

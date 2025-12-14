@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "A personal marketplace for agent plugins",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "plugins": [
     {
@@ -15,6 +15,19 @@
         "url": "https://github.com/jtemplet/agent-skills.git"
       },
       "description": "Custom agent skills",
+      "version": "latest",
+      "author": {
+        "name": "Jason Templeton",
+        "email": "jtemplet@users.noreply.github.com"
+      }
+    },
+    {
+      "name": "superpowers",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jtemplet/superpowers.git"
+      },
+      "description": "Forked superpowers skills",
       "version": "latest",
       "author": {
         "name": "Jason Templeton",

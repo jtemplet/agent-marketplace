@@ -23,6 +23,10 @@ Install plugins:
 
 Custom skills for personal use. See [jtemplet/agent-skills](https://github.com/jtemplet/agent-skills).
 
+### superpowers
+
+Custom skills for personal use. See [jtemplet/superpowers](https://github.com/jtemplet/superpowers).
+
 ## Updating
 
 Update plugins:

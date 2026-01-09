@@ -14,14 +14,14 @@ Install plugins:
 
 ```bash
 # Custom agent skills
-/plugin install agent-skills@agent-marketplace
+/plugin install templeton-agentic-dev-workbench@agent-marketplace
 ```
 
 ## Plugins
 
-### agent-skills
+### templeton-agentic-dev-workbench
 
-Custom skills for personal use. See [jtemplet/agent-skills](https://github.com/jtemplet/agent-skills).
+Custom skills for personal use. See [jtemplet/templeton-agentic-dev-workbench](https://github.com/jtemplet/templeton-agentic-dev-workbench).
 
 ### superpowers
 
@@ -32,7 +32,7 @@ Custom skills for personal use. See [jtemplet/superpowers](https://github.com/jt
 Update plugins:
 
 ```bash
-/plugin update agent-skills
+/plugin update templeton-agentic-dev-workbench
 ```
 
 ## License

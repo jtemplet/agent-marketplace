@@ -15,22 +15,26 @@ Install plugins:
 
 ```bash
 # Custom agent skills
-/plugin install templeton-agentic-dev-workbench@templeton-agentic-marketplace
+/plugin install tadw@templeton-agentic-marketplace
 ```
 
 ## Plugins
 
-### templeton-agentic-dev-workbench
+### tadw
 
-Custom skills for personal use. See
+Templeton Agentic Dev Workbench. Custom agents, skills, and commands for personal use, all
+namespaced under `tadw:` (for example `tadw:fresh-eyes-cr`). See
 [jtemplet/templeton-agentic-dev-workbench](https://github.com/jtemplet/templeton-agentic-dev-workbench).
+
+Installed under the old name `templeton-agentic-dev-workbench`? That name was retired in the
+plugin's 2.0.0. Uninstall it and install `tadw`; the two cannot coexist.
 
 ## Updating
 
 Update plugins:
 
 ```bash
-/plugin update templeton-agentic-dev-workbench
+/plugin update tadw
 ```
 
 ## License

@@ -5,16 +5,16 @@
   },
   "metadata": {
     "description": "A personal marketplace for agent plugins",
-    "version": "0.2.0"
+    "version": "0.3.0"
   },
   "plugins": [
     {
-      "name": "templeton-agentic-dev-workbench",
+      "name": "tadw",
       "source": {
         "source": "url",
         "url": "https://github.com/jtemplet/templeton-agentic-dev-workbench.git"
       },
-      "description": "Personal preferred coding style",
+      "description": "Templeton Agentic Dev Workbench: personal agents, skills, and commands for code, planning, product, and research work",
       "version": "latest",
       "author": {
         "name": "Jason Templeton",
